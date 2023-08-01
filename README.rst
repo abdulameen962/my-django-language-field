@@ -15,7 +15,7 @@ Installation
 
 ::
 
-    pip install django-language-field
+    pip install my-django-language-field
 
 
 Basic usage
